@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**d-k0de/d-k0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Welcome to My ALU Projects Repository
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This repository is an extension of my professional repository, [Ebi-Tech](https://github.com/Ebi-Tech). Here, you'll find various projects specifically focused on ny studies ALU (African Leadership university)
+
+## Projects
+
+- *Project 1:  alu-zero_day*
+  - Description: Introduction to git.
+  - [ alu-zero_day]([link-to-project](https://github.com/d-k0de/alu-zero_day))
+
+- *Project 2: alu-shell*
+  - Description: Introduction to shell.
+  - [alu-shell]([link-to-project](https://github.com/d-k0de/alu-shell))
+
+## Technologies Used
+
+-Shell
